@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e3aeb8c-9f81-44ad-b45c-c8d68b0502a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="2ReynWAMxSQkEyJzHMncik2asnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PHP" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e3aeb8c-9f81-44ad-b45c-c8d68b0502a2" name="Default Changelist" comment="" />
+      <created>1687625010906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687625010906</updated>
+      <workItem from="1687625012694" duration="621000" />
+      <workItem from="1687665539479" duration="193000" />
+      <workItem from="1687665772422" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="260" key="#CLI_Interpreters" timestamp="1687665871832">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="643" y="260" key="#CLI_Interpreters/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687665871832" />
+    <state x="770" y="248" key="#PHP" timestamp="1687665876397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="770" y="248" key="#PHP/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687665876397" />
+    <state x="517" y="222" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1687666252026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="517" y="222" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687666252026" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1687666294532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687666294532" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1687666294531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687666294531" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1687666294531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687666294531" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1687666294531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687666294531" />
+    <state x="461" y="184" key="SettingsEditor" timestamp="1687625026887">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="184" key="SettingsEditor/0.0.1920.1080/1920.0.1366.768@0.0.1920.1080" timestamp="1687625026887" />
+  </component>
+</project>

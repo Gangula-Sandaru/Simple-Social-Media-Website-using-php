@@ -1,6 +1,24 @@
 <?php
+// Define the routing mechanism
+$request = $_SERVER['REQUEST_URI'];
 
-require_once("models/DBConnector.php");
+// Map the routes to the respective controllers
+$routes = [
+    '/' => 'homeController@index'
+];
 
+// Find the corresponding controller and action for the requested route
+if (isset($routes[$request])) {
+    [$controller, $action] = explode('@', $routes[$request]);
 
-echo "<p>HI gangula sandaru</p>";
+    // Include the controller file
+    include_once "controllers/$controller.php";
+
+    // Create an instance of the controller class and call the action method
+    $controllerInstance = new $controller();
+    $controllerInstance->$action();
+} else {
+    // Handle 404 Page Not Found error
+    echo "404 Page Not Found";
+}
+?>

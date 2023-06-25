@@ -1,18 +1,15 @@
 <?php
-// Database configuration
-$host = "localhost"; 
-$dbName = "socialnetworkDB"; 
-$username = "root"; 
-$password = ""; 
+$servername = "localhost";
+$username = "root";
+$databaseName = "TestDB";
+$password = "000766526217+++gul";
 
-// Create a new mysqli object
-$mysqli = new mysqli($host, $username, $password, $dbName);
+// Create connection
+$conn = new mysqli($servername, $username,  $password, $databaseName);
 
-// Check the connection
-if ($mysqli->connect_error) {
-    die("Connection failed: " . $mysqli->connect_error);
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
 }
-
-// You are now connected to the database
-echo "Connected to the database successfully!";
+echo "Connected successfully";
 ?>
